@@ -1,0 +1,5 @@
+.env
+.envrc
+.telegraf.conf
+telegraf.conf
+weather.conf
